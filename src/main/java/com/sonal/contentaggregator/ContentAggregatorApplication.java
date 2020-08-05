@@ -13,6 +13,7 @@ public class ContentAggregatorApplication {
 
 	public static void main(String[] args) {
 		//branch test
+		//master changed
 		SpringApplication.run(ContentAggregatorApplication.class, args);
 	}
 

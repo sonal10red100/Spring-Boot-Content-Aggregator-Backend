@@ -12,7 +12,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 public class ContentAggregatorApplication {
 
 	public static void main(String[] args) {
-
+		//branch test
 		SpringApplication.run(ContentAggregatorApplication.class, args);
 	}
 
